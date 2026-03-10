@@ -1,0 +1,10 @@
+/src/.vs
+/src/KF.CenterServer.Hosting/.vs
+/src/KF.CenterServer.Hosting/bin
+/src/KF.CenterServer.Hosting/obj
+/src/KF.CenterServer.Remoting/bin
+/src/KF.CenterServer.Remoting/obj
+/src/Tmsk.Contract/obj
+/src/Tmsk.Contract/bin/Debug
+/src/Tmsk.Contract/bin
+src/Tmsk.Contract/.DS_Store
